@@ -1,9 +1,7 @@
-# 123456789ABCD
-# A234567890JQK
-
-
-# It takes ~50 seconds to work out a good enough answer by keeping the best 100k states.
-# It takes ~10 G memory to work out the highest score.
+123456789ABCD in code means  
+A234567890JQK (0 = 10)  
+It takes ~50 seconds to work out a good enough answer by keeping the best 100k states. Keep 10k states for higher speed.  
+It takes ~10 G memory to work out the highest score.  
 
 # Fastest Deal #29 ~160s
 ['B6B672582883A', '4C55767DD9611', '2443A2C1DA19C', 'C4B3BD78959A3']
