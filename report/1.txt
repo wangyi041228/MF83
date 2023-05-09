@@ -1,0 +1,79 @@
+751CB9C5723C9_22D51288DADBA_7B5A11D6884B6_A64399C734643
+MOVE 1 4 0.000
+MOVE 2 16 0.000
+MOVE 3 64 0.000
+MOVE 4 171 0.001
+MOVE 5 178 0.001
+MOVE 6 362 0.002
+MOVE 7 1125 0.004
+MOVE 8 2404 0.011
+MOVE 9 3776 0.022
+MOVE 10 4494 0.033
+MOVE 11 7019 0.044
+MOVE 12 13843 0.088
+MOVE 13 23140 0.147
+MOVE 14 28991 0.253
+MOVE 15 36531 0.328
+MOVE 16 64644 0.473
+MOVE 17 100906 0.985
+MOVE 18 109743 1.487
+MOVE 19 102989 1.645
+MOVE 20 116528 1.848
+MOVE 21 100389 2.364
+MOVE 22 104168 2.040
+MOVE 23 110005 1.887
+MOVE 24 100085 2.232
+MOVE 25 108719 2.031
+MOVE 26 117583 2.174
+MOVE 27 103350 2.599
+MOVE 28 100142 2.052
+MOVE 29 108982 1.922
+MOVE 30 100189 2.317
+MOVE 31 110401 2.115
+MOVE 32 115429 2.308
+MOVE 33 100475 2.008
+MOVE 34 105573 2.166
+MOVE 35 121341 2.049
+MOVE 36 104247 2.518
+MOVE 37 101900 2.185
+MOVE 38 111420 1.921
+MOVE 39 110721 2.441
+MOVE 40 111514 2.179
+MOVE 41 110443 1.964
+MOVE 42 103319 1.771
+MOVE 43 109983 2.065
+MOVE 44 117405 2.133
+MOVE 45 108815 2.114
+MOVE 46 105316 1.813
+MOVE 47 87084 1.793
+MOVE 48 48493 1.253
+MOVE 49 39147 0.460
+MOVE 50 20594 0.364
+MOVE 51 7136 0.125
+MOVE 52 950 0.039
+110 122_122_11222_2244231_3333_414443_141_4422_1131_32441413_334_33 66.776
+
+         71914215 function calls in 66.784 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 cProfile.py:117(__exit__)
+  3975094    6.711    0.000   20.764    0.000 v2.py:110(score)
+       52   13.024    0.250   51.944    0.999 v2.py:134(work_in_pool)
+        1    9.392    9.392   66.777   66.777 v2.py:271(solve)
+ 10125561    1.290    0.000    1.290    0.000 v2.py:313(<lambda>)
+       30    0.872    0.029    0.872    0.029 v2.py:325(<listcomp>)
+       30    0.887    0.030    0.887    0.030 v2.py:326(<listcomp>)
+        1    0.007    0.007   66.784   66.784 v2.py:340(main)
+  3975246    0.249    0.000    0.249    0.000 {built-in method builtins.len}
+       55    0.001    0.000    0.001    0.000 {built-in method builtins.print}
+ 11950874   12.428    0.000   12.428    0.000 {built-in method builtins.sorted}
+      106    0.000    0.000    0.000    0.000 {built-in method time.perf_counter}
+  4842565    0.369    0.000    0.369    0.000 {method 'add' of 'set' objects}
+ 14968126    0.986    0.000    0.986    0.000 {method 'append' of 'list' objects}
+ 10125561   17.442    0.000   17.442    0.000 {method 'copy' of 'list' objects}
+       13    0.000    0.000    0.000    0.000 {method 'count' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+ 11950846    1.401    0.000    1.401    0.000 {method 'join' of 'str' objects}
+       52    1.723    0.033    3.013    0.058 {method 'sort' of 'list' objects}
